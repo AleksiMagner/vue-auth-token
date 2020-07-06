@@ -1,6 +1,6 @@
 # vue-auth-token
 Authorization with token through Firebase
-By examples from the [article]('https://css-tricks.com/tackling-authentication-with-vue-using-restful-apis/')
+By examples from the [article](https://css-tricks.com/tackling-authentication-with-vue-using-restful-apis/)
 
 ## Project setup
 ```
